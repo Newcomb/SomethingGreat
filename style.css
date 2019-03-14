@@ -8,7 +8,7 @@ div{
   border-radius: 25px;
   border-width: 5px;
   border-color: white;
-  width: 49%;
+  width: 50%;
   height: 33%;
   margin-bottom: 100px;
 }
@@ -16,14 +16,14 @@ div{
   float: left;
 }
 .two{
-  float: right;
+  float: left;
 }
 .three{
   float:left;
 }
 .pie{
-  width: 24%;
-  height: 24%;
+  width: 20%;
+  height: 20%;
   float: left;
 }
 .pied{
@@ -31,9 +31,10 @@ div{
   height: 30%;
   color: white;
   float: right;
+  margin-bottom:50px;
 }
 .rank{
-  width: 24%;
-  height: 24%;
+  width: 20%;
+  height: 20%;
   float:left;
 }
