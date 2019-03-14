@@ -24,4 +24,10 @@ div{
 .pie{
   width: 25%;
   height: 25%;
+  float: left;
+}
+.pied{
+  width: 49%;
+  height: 30%;
+  
 }
