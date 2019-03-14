@@ -8,6 +8,16 @@ div{
   border-radius: 25px;
   border-width: 5px;
   border-color: white;
-  width: 50%;
+  width: 49%;
   height: 33%;
+}
+.one{
+  float: left;
+}
+.two{
+  float: right;
+  clear: left;
+}
+.three{
+  float:left;
 }
