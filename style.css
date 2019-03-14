@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+}
+
+div{
+  background-color: #89F5FA;
+  border-style: groove;
+  border-radius: 25px;
+  border-width: 5px;
+  border-color: white;
+}
