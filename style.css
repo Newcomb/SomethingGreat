@@ -16,18 +16,18 @@ div{
 }
 .two{
   float: right;
-  clear: left;
 }
 .three{
   float:left;
 }
 .pie{
-  width: 25%;
-  height: 25%;
+  width: 23%;
+  height: 24%;
   float: left;
 }
 .pied{
   width: 49%;
   height: 30%;
-  
+  color: white;
+  float: right;
 }
