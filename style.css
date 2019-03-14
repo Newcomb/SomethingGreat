@@ -8,4 +8,6 @@ div{
   border-radius: 25px;
   border-width: 5px;
   border-color: white;
+  width: 50%;
+  height: 33%;
 }
